@@ -1,3 +1,5 @@
+# This code is to check if the entered date is correct or not.
+
 from array import *
 
 day=0
