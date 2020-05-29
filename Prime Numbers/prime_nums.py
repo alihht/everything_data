@@ -1,4 +1,4 @@
-#This code is to find the next prime number of any number you provide
+#This code is to find the next prime number of any number you provide. 
 
 from array import *
 x=0
